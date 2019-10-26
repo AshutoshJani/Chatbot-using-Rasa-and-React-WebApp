@@ -6,3 +6,4 @@ To use this web-app you will need to install the Rasa Module using pip
 pip install rasa
 ```
 
+_I will suggest installing rasa in an environment as this installation process install Tensorflow as well as Spacy modules which might be a few versions old will interfere with your base environment_
