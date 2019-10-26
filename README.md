@@ -12,4 +12,4 @@ After the installation is finished you need to make a Rasa Project
 ```
 rasa init --no-prompt
 ```
-[You can also check out the Rasa Documentation here and follow the steps there] (https://rasa.com/docs/rasa/user-guide/rasa-tutorial/ "Rasa Tutorial")
+[You can also check out the Rasa Documentation here and follow the steps there]: (https://rasa.com/docs/rasa/user-guide/rasa-tutorial/ "Rasa Tutorial")
